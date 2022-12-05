@@ -34,8 +34,6 @@ $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 **Jiabin Tang**, Tang Qian, Shijing Liu, Shengdong Du$^{\dagger}$, Jie Hu, Tianrui Li
 
 - in Proc. of The International Joint Conference on Neural Networks (IJCNN), 2022. (*Oral Presentation*)
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - COMING SOON
