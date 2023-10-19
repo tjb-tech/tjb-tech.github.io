@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiabin Tang' Homepage"
-description              : "Jiabin Tang is an undergraduate student, whose research interests lie in Spatial-Temporal Data Mining, Graph Neural Networks and Deep Learning. "
+description              : "Jiabin Tang is a first-year Ph.D. student, whose research interests lie in Graph Neural Networks, Large Language Models and deep learning applications. "
 repository               : "tjb-tech/tjb-tech.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiabin Tang"
   avatar           : "images/tjb_2.jpg"
-  bio              : "Southwest Jiaotong University (SWJTU)"
-  location         : "Sichuan, China"
+  bio              : "The University of Hong Kong (HKU)"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GUXIfJgAAAAJ"
-  email            : "tjb2019111290@my.swjtu.edu.cn"
+  email            : "jiabintang77@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Jiabin_Tang4"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/jiabin-tang-ds"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
