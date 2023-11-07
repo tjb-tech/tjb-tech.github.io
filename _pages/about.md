@@ -23,8 +23,9 @@ My research interest includes Graph Neural Networks, Large Language Models and d
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 We release our **Graph Large Language Models** - **GraphGPT** with pre-print paper, source code, model and data. Let's step to **Graph Learning in the era of LLM**!
-- *2023.08*: &nbsp;🎉🎉 Two full papers about spatio-temporal data mining are accepted by **CIKM'23**. Thanks for all my co-authors and my supervisor!
+- 🎯 *2023.10*: &nbsp;🎉🎉 We release our **Graph Large Language Models** - **GraphGPT** with pre-print [paper](https://arxiv.org/abs/2310.13023), [source code](https://github.com/HKUDS/GraphGPT), [model](https://huggingface.co/Jiabin99/GraphGPT-7B-mix-all) and [data](https://huggingface.co/datasets/Jiabin99/Arxiv-PubMed-mix-NC-LP). Let's step to **Graph Learning in the era of LLM**!
+- *2023.10*: &nbsp;🎉🎉 Our paper **LLMRec** is accepted by **WSDM'24**! Thanks to Wei Wei and other co-authors!
+- *2023.08*: &nbsp;🎉🎉 Two full papers about spatio-temporal data mining are accepted by **CIKM'23**. Thanks to all my co-authors and my supervisor!
 - *2023.06*: &nbsp;🎉🎉 I graduated from SWJTU. Nice memories with all my friends, teachers and family!
 - *2022.11*: &nbsp;🎉🎉 I am honored with *Cao Jianyou Student Award* **2022** (Selected from eight universities, including Southwest Jiaotong University, Tongji University, Central South University, etc. ).
 - *2022.11*: &nbsp;🎉🎉 I am nominated for *National Scholarship for Encouragement* and *Provincial Outstanding Graduates*.
@@ -33,19 +34,25 @@ My research interest includes Graph Neural Networks, Large Language Models and d
 
 $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
-[GraphGPT: Graph Instruction Tuning for Large Language Models](#), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[project](https://graphgpt.github.io/)]**
+🎯 [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[project](https://graphgpt.github.io/)]**
 
 **Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, Suqi Cheng, Dawei Yin, Chao Huang$^{\dagger}$
 
-- Pre-print (under review), 2023.
+- Pre-print, 2023.
 
-[Spatio-Temporal Meta Contrastive Learning](#), **[[code]()]**
+[LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423), **[[code](https://github.com/HKUDS/LLMRec)]**, **[[project](https://llmrec.github.io/)]**
+
+Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng wang, Dawei Yin, Chao Huang$^{\dagger}$
+
+- in Proc. of The ACM International Conference on Web Search and Data Mining (WSDM), 2024. (*Oral Presentation*)
+
+[Spatio-Temporal Meta Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3583780.3615065), **[[code](https://github.com/HKUDS/CL4ST)]**
 
 **Jiabin Tang**, Lianghao Xia, Jie Hu, Chao Huang$^{\dagger}$
 
 - in Proc. of The ACM International Conference on Information and Knowledge Management (CIKM), 2023.
 
-[Explainable Spatio-Temporal Graph Neural Networks](#), **[[code]()]**
+[Explainable Spatio-Temporal Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3583780.3614871), **[[code](https://github.com/HKUDS/STExplainer)]**
 
 **Jiabin Tang**, Lianghao Xia, Chao Huang$^{\dagger}$
 
@@ -74,6 +81,7 @@ $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
 
 # 💬 Invited Talks
+- *2023.10*, Oral presentation at CIKM 2023 about our paper: '*Spatio-Temporal Meta Contrastive Learning*' and '*Explainable Spatio-Temporal Graph Neural Networks*'. 
 - *2022.08*, Oral presentation at IJCNN 2022 about our paper: '*Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting*'. 
 
 
