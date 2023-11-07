@@ -19,7 +19,7 @@ redirect_from:
 
 I am a first-year Ph.D. student majoring in Data Science at The University of Hong Kong (HKU), supervised by [Chao Huang](https://sites.google.com/view/chaoh). 
 
-My research interest includes Graph Neural Networks, Large Language Models and deep learning applications.
+My research interest includes **Graph Neural Networks**, **Large Language Models** and **deep learning applications**.
 
 
 # 🔥 News
