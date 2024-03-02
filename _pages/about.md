@@ -23,7 +23,9 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 
 # 🔥 News
+- 🎯 *2024.02*: &nbsp;🎉🎉 We release our **Heterogeneous Graph Language Model** - **HiGPT** with pre-print [paper](https://arxiv.org/abs/2402.16024), [source code](https://github.com/HKUDS/HiGPT), [model](https://huggingface.co/Jiabin99/HiGPT). Goodbye, homogeneous graphs! Hi, heterogeneous graph!
 - 🎯 *2023.10*: &nbsp;🎉🎉 We release our **Graph Large Language Models** - **GraphGPT** with pre-print [paper](https://arxiv.org/abs/2310.13023), [source code](https://github.com/HKUDS/GraphGPT), [model](https://huggingface.co/Jiabin99/GraphGPT-7B-mix-all) and [data](https://huggingface.co/datasets/Jiabin99/Arxiv-PubMed-mix-NC-LP). Let's step to **Graph Learning in the era of LLM**!
+- *2024.02*: &nbsp;🎉🎉 Our paper **PromptMM** is accepted by **WWW'24**! Thanks to Wei Wei and other co-authors!
 - *2023.10*: &nbsp;🎉🎉 Our paper **LLMRec** is accepted by **WSDM'24**! Thanks to Wei Wei and other co-authors!
 - *2023.08*: &nbsp;🎉🎉 Two full papers about spatio-temporal data mining are accepted by **CIKM'23**. Thanks to all my co-authors and my supervisor!
 - *2023.06*: &nbsp;🎉🎉 I graduated from SWJTU. Nice memories with all my friends, teachers and family!
@@ -34,11 +36,23 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
-🎯 [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[project](https://graphgpt.github.io/)]**
+🎯 [HiGPT: Heterogeneous Graph Language Model](https://arxiv.org/abs/2402.16024), **[[code](https://github.com/HKUDS/HiGPT)]**, **[[project](https://higpt-hku.github.io/)]**
+
+**Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
+
+- Pre-print, 2024.
+
+🎯 [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[video](https://www.bilibili.com/video/BV1YQ4y1E7jW/?spm_id_from=333.999.0.0&vd_source=e4217e0b912c93c99f59f1489308a356)]**
 
 **Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, Suqi Cheng, Dawei Yin, Chao Huang$^{\dagger}$
 
 - Pre-print, 2023.
+
+[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), **[[code](https://github.com/HKUDS/LLMRec)]**
+
+Wei Wei, **Jiabin Tang**, Yangqin Jiang, Lianghao Xia, Chao Huang$^{\dagger}$
+
+- in Proc. of The Web Conference (WWW), 2024.
 
 [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423), **[[code](https://github.com/HKUDS/LLMRec)]**, **[[project](https://llmrec.github.io/)]**
 
@@ -81,10 +95,18 @@ Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng
 
 
 # 💬 Invited Talks
+
+- *2023.12*, Sharing our '*GraphGPT: Graph Instruction Tuning for Large Language Models*' online in the Bilibili Channel **AITIME论道**, [video](https://www.bilibili.com/video/BV1YQ4y1E7jW/?spm_id_from=333.999.0.0&vd_source=e4217e0b912c93c99f59f1489308a356)
 - *2023.10*, Oral presentation at CIKM 2023 about our paper: '*Spatio-Temporal Meta Contrastive Learning*' and '*Explainable Spatio-Temporal Graph Neural Networks*'. 
 - *2022.08*, Oral presentation at IJCNN 2022 about our paper: '*Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting*'. 
 
 
+
+# 🧑‍💻 Service
+
+- Reviewers: 
+  - KDD' 24
+  - TNNLS
 
 # 💻 Internships
 - Research Intern
