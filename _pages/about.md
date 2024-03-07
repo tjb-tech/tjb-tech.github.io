@@ -23,8 +23,10 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 
 # 🔥 News
+- 🎯 *2024.03*: &nbsp;🎉🎉I will give a presentation titled "*Graph Language Models*" on **23rd** **March 2024** in [Talk on MLLM](https://www.mllm-ai.com/home) to introduce our **GraphGPT**, **HiGPT** and **UrbanGPT**. Looking forward to communicating with you! 
 - 🎯 *2024.02*: &nbsp;🎉🎉 We release our **Heterogeneous Graph Language Model** - **HiGPT** with pre-print [paper](https://arxiv.org/abs/2402.16024), [source code](https://github.com/HKUDS/HiGPT), [model](https://huggingface.co/Jiabin99/HiGPT). Goodbye, homogeneous graphs! Hi, heterogeneous graph!
 - 🎯 *2023.10*: &nbsp;🎉🎉 We release our **Graph Large Language Models** - **GraphGPT** with pre-print [paper](https://arxiv.org/abs/2310.13023), [source code](https://github.com/HKUDS/GraphGPT), [model](https://huggingface.co/Jiabin99/GraphGPT-7B-mix-all) and [data](https://huggingface.co/datasets/Jiabin99/Arxiv-PubMed-mix-NC-LP). Let's step to **Graph Learning in the era of LLM**!
+- 🎯 *2024.03*: &nbsp;🎉🎉 We release our **Spatio-Temporal Large Language Models** - **UrbanGPT** with pre-print [paper](https://arxiv.org/abs/2403.00813), [source code](https://github.com/HKUDS/UrbanGPT), [model](https://huggingface.co/datasets/bjdwh/checkpoints) and [data](https://huggingface.co/datasets/bjdwh/ST_data_urbangpt). Keep going towards smart city in the era of LLMs!
 - *2024.02*: &nbsp;🎉🎉 Our paper **PromptMM** is accepted by **WWW'24**! Thanks to Wei Wei and other co-authors!
 - *2023.10*: &nbsp;🎉🎉 Our paper **LLMRec** is accepted by **WSDM'24**! Thanks to Wei Wei and other co-authors!
 - *2023.08*: &nbsp;🎉🎉 Two full papers about spatio-temporal data mining are accepted by **CIKM'23**. Thanks to all my co-authors and my supervisor!
@@ -36,17 +38,23 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
+🎯 [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[project](https://graphgpt.github.io/)]**, **[[video](https://www.bilibili.com/video/BV1YQ4y1E7jW/?spm_id_from=333.999.0.0&vd_source=e4217e0b912c93c99f59f1489308a356)]**
+
+**Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, Suqi Cheng, Dawei Yin, Chao Huang$^{\dagger}$
+
+- Pre-print, 2023.
+
 🎯 [HiGPT: Heterogeneous Graph Language Model](https://arxiv.org/abs/2402.16024), **[[code](https://github.com/HKUDS/HiGPT)]**, **[[project](https://higpt-hku.github.io/)]**
 
 **Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
 - Pre-print, 2024.
 
-🎯 [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[video](https://www.bilibili.com/video/BV1YQ4y1E7jW/?spm_id_from=333.999.0.0&vd_source=e4217e0b912c93c99f59f1489308a356)]**
+🎯 [UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/abs/2403.00813), **[[code](https://github.com/HKUDS/UrbanGPT)]**, **[[project](https://urban-gpt.github.io/)]**, **[[video](https://www.youtube.com/watch?v=4BIbQt-EIAM)]**
 
-**Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, Suqi Cheng, Dawei Yin, Chao Huang$^{\dagger}$
+Zhonghang Li, Lianghao Xia, **Jiabin Tang**, Yong Xu, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
-- Pre-print, 2023.
+- Pre-print, 2024.
 
 [PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), **[[code](https://github.com/HKUDS/LLMRec)]**
 
@@ -104,9 +112,11 @@ Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng
 
 # 🧑‍💻 Service
 
-- Reviewers: 
-  - KDD' 24
+- Conference Reviewers: 
+  - KDD: 2024
+- Journal Reviewers: 
   - TNNLS
+  
 
 # 💻 Internships
 - Research Intern
