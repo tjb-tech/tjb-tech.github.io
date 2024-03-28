@@ -30,9 +30,18 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 - *2024.02*: &nbsp;🎉🎉 Our paper **PromptMM** is accepted by **WWW'24**! Thanks to Wei Wei and other co-authors!
 - *2023.10*: &nbsp;🎉🎉 Our paper **LLMRec** is accepted by **WSDM'24**! Thanks to Wei Wei and other co-authors!
 - *2023.08*: &nbsp;🎉🎉 Two full papers about spatio-temporal data mining are accepted by **CIKM'23**. Thanks to all my co-authors and my supervisor!
+
+<details>
+<summary> <b>More News</b> </summary>
+
+
 - *2023.06*: &nbsp;🎉🎉 I graduated from SWJTU. Nice memories with all my friends, teachers and family!
 - *2022.11*: &nbsp;🎉🎉 I am honored with *Cao Jianyou Student Award* **2022** (Selected from eight universities, including Southwest Jiaotong University, Tongji University, Central South University, etc. ).
 - *2022.11*: &nbsp;🎉🎉 I am nominated for *National Scholarship for Encouragement* and *Provincial Outstanding Graduates*.
+
+</details>
+
+
 
 # 📝 Publications 
 
