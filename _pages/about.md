@@ -23,7 +23,7 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 
 # 🔥 News
-- 🎯 *2024.03*: &nbsp;🎉🎉Our **GraphGPT** is accepted by **SIGIR'24** in the Full paper track (20.1% acceptance rate).. Check out more about **GraphGPT**: https://graphgpt.github.io/. Thanks to all my co-authors and my supervisor!
+- 🎯 *2024.03*: &nbsp;🎉🎉Our **GraphGPT** is accepted by **SIGIR'24** in the Full paper track (20.1% acceptance rate). Check out more about **GraphGPT**: 🏠[https://graphgpt.github.io/](https://graphgpt.github.io/). Thanks to all my co-authors and my supervisor!
 - 🎯 *2024.03*: &nbsp;🎉🎉I will give a presentation titled "*Graph Language Models*" on **23rd** **March 2024** in [Talk on MLLM](https://www.mllm-ai.com/home) to introduce our **GraphGPT**, **HiGPT** and **UrbanGPT**. Looking forward to communicating with you! 
 - 🎯 *2024.02*: &nbsp;🎉🎉 We release our **Heterogeneous Graph Language Model** - **HiGPT** with pre-print [paper](https://arxiv.org/abs/2402.16024), [source code](https://github.com/HKUDS/HiGPT), [model](https://huggingface.co/Jiabin99/HiGPT). Goodbye, homogeneous graphs! Hi, heterogeneous graph!
 - 🎯 *2023.10*: &nbsp;🎉🎉 We release our **Graph Large Language Models** - **GraphGPT** with pre-print [paper](https://arxiv.org/abs/2310.13023), [source code](https://github.com/HKUDS/GraphGPT), [model](https://huggingface.co/Jiabin99/GraphGPT-7B-mix-all) and [data](https://huggingface.co/datasets/Jiabin99/Arxiv-PubMed-mix-NC-LP). Let's step to **Graph Learning in the era of LLM**!
