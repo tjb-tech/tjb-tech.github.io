@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student majoring in Data Science at The University of Hong Kong (HKU), supervised by [Chao Huang](https://sites.google.com/view/chaoh). 
+I am a first-year Ph.D. student majoring in Data Science at The University of Hong Kong (HKU), supervised by Prof. [Chao Huang](https://sites.google.com/view/chaoh) and [Kao, Benjamin C.M](https://www.cs.hku.hk/index.php/people/academic-staff/kao). 
 
-My research interest includes **Graph Neural Networks**, **Large Language Models** and **deep learning applications**. I have published some papers <a href='https://scholar.google.com.hk/citations?user=GUXIfJgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ftjb-tech%2Ftjb-tech.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as SIGIR, CIKM, WWW. 
-
+My research interest includes **Graph Neural Networks**, **Large Language Models** and **deep learning applications**. I have published some papers <a href='https://scholar.google.com.hk/citations?user=GUXIfJgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ftjb-tech%2Ftjb-tech.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as KDD, SIGIR, CIKM, WWW. 
 
 # 🔥 News
+
+* 🎯 *2024.03*: &nbsp;🎉🎉Our **HiGPT** is accepted by **KDD'24** in the Research Track (~20% acceptance rate) and **UrbanGPT** is accepted by **KDD'24** in the Applied Data Science Track (~20% acceptance rate). Check out more about **HiGPT**: 🏠https://higpt-hku.github.io/ and **UrbanGPT**: 🏠https://urban-gpt.github.io/. Thanks to Zhonghang and other co-authors as well as my supervisor!
+
 - 🎯 *2024.03*: &nbsp;🎉🎉Our **GraphGPT** is accepted by **SIGIR'24** in the Full paper track (20.1% acceptance rate). Check out more about **GraphGPT**: 🏠[https://graphgpt.github.io/](https://graphgpt.github.io/). Thanks to all my co-authors and my supervisor!
 - 🎯 *2024.03*: &nbsp;🎉🎉I gave a presentation titled "*Graph Language Models*" on **24rd** **March 2024** in [Talk on MLLM](https://www.mllm-ai.com/home) to introduce our **GraphGPT**, **HiGPT** and **UrbanGPT**. Please check out this **[[video](https://www.youtube.com/watch?v=AIEoaPkm-XI)]** ! 
 - 🎯 *2024.02*: &nbsp;🎉🎉 We release our **Heterogeneous Graph Language Model** - **HiGPT** with pre-print [paper](https://arxiv.org/abs/2402.16024), [source code](https://github.com/HKUDS/HiGPT), [model](https://huggingface.co/Jiabin99/HiGPT). Goodbye, homogeneous graphs! Hi, heterogeneous graph!
@@ -45,6 +47,24 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
+#### Preprints
+
+[A Survey of Large Language Models for Graphs](https://arxiv.org/abs/2405.08011), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
+
+Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
+
+* Pre-print, 2024.
+
+#### Tutorials
+
+[Large Language Models for Graphs: Progresses and Directions](https://dl.acm.org/doi/abs/10.1145/3589335.3641251), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]**, **[[project](https://llm4graph-tutorial.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
+
+Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
+
+* in Proc. of The Web Conference (WWW), 2024.
+
+#### Conference and Journal Publications
+
 🎯 [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[project](https://graphgpt.github.io/)]**, **[[Bilibili](https://www.bilibili.com/video/BV1YQ4y1E7jW/?spm_id_from=333.999.0.0&vd_source=e4217e0b912c93c99f59f1489308a356)]**, **[[Youtube](https://www.youtube.com/watch?v=AIEoaPkm-XI)]** <img src='https://img.shields.io/github/stars/hkuds/graphgpt?color=green&style=social' />&nbsp;
 
 **Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, Suqi Cheng, Dawei Yin, Chao Huang$^{\dagger}$
@@ -55,13 +75,13 @@ $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
 **Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
-- Pre-print, 2024.
+- in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024.
 
 🎯 [UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/abs/2403.00813), **[[code](https://github.com/HKUDS/UrbanGPT)]**, **[[project](https://urban-gpt.github.io/)]**, **[[video](https://www.youtube.com/watch?v=4BIbQt-EIAM)]** <img src='https://img.shields.io/github/stars/hkuds/urbangpt?color=green&style=social' />
 
 Zhonghang Li, Lianghao Xia, **Jiabin Tang**, Yong Xu, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
-- Pre-print, 2024.
+- in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024.
 
 [PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), **[[code](https://github.com/HKUDS/LLMRec)]** 
 
@@ -69,7 +89,7 @@ Wei Wei, **Jiabin Tang**, Yangqin Jiang, Lianghao Xia, Chao Huang$^{\dagger}$
 
 - in Proc. of The Web Conference (WWW), 2024.
 
-[LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423), **[[code](https://github.com/HKUDS/LLMRec)]**, **[[project](https://llmrec.github.io/)]**
+[LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423), **[[code](https://github.com/HKUDS/LLMRec)]**, **[[project](https://llmrec.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/llmrec?color=green&style=social' />
 
 Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng wang, Dawei Yin, Chao Huang$^{\dagger}$
 
@@ -122,7 +142,7 @@ Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng
 
 - As an organizer of [Talk on MLLM](https://www.mllm-ai.com/home) platform. 
 - Conference Reviewers: 
-  - KDD: 2024
+  - KDD, CIKM: 2024
 - Journal Reviewers: 
   - TNNLS
   
