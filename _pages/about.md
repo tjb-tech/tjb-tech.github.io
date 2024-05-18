@@ -51,7 +51,7 @@ $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
 [A Survey of Large Language Models for Graphs](https://arxiv.org/abs/2405.08011), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
 
-Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
+Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla, Chao Huang$^{\dagger}$
 
 * Pre-print, 2024.
 
