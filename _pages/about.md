@@ -65,49 +65,49 @@ Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
 
 #### Conference and Journal Publications
 
-🎯 [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[project](https://graphgpt.github.io/)]**, **[[Bilibili](https://www.bilibili.com/video/BV1YQ4y1E7jW/?spm_id_from=333.999.0.0&vd_source=e4217e0b912c93c99f59f1489308a356)]**, **[[Youtube](https://www.youtube.com/watch?v=AIEoaPkm-XI)]** <img src='https://img.shields.io/github/stars/hkuds/graphgpt?color=green&style=social' />&nbsp;
+🎯<img src='https://img.shields.io/badge/SIGIR2024-orange' /></a>[GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[project](https://graphgpt.github.io/)]**, **[[Bilibili](https://www.bilibili.com/video/BV1YQ4y1E7jW/?spm_id_from=333.999.0.0&vd_source=e4217e0b912c93c99f59f1489308a356)]**, **[[Youtube](https://www.youtube.com/watch?v=AIEoaPkm-XI)]** <img src='https://img.shields.io/github/stars/hkuds/graphgpt?color=green&style=social' />&nbsp;
 
 **Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, Suqi Cheng, Dawei Yin, Chao Huang$^{\dagger}$
 
 - in Proc. of Special Interest Group on Information Retrieval (SIGIR), 2024.
 
-🎯 [HiGPT: Heterogeneous Graph Language Model](https://arxiv.org/abs/2402.16024), **[[code](https://github.com/HKUDS/HiGPT)]**, **[[project](https://higpt-hku.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/higpt?color=green&style=social' />&nbsp;
+🎯<img src='https://img.shields.io/badge/KDD2024-orange' />[HiGPT: Heterogeneous Graph Language Model](https://arxiv.org/abs/2402.16024), **[[code](https://github.com/HKUDS/HiGPT)]**, **[[project](https://higpt-hku.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/higpt?color=green&style=social' />&nbsp;
 
 **Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
 - in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024.
 
-🎯 [UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/abs/2403.00813), **[[code](https://github.com/HKUDS/UrbanGPT)]**, **[[project](https://urban-gpt.github.io/)]**, **[[video](https://www.youtube.com/watch?v=4BIbQt-EIAM)]** <img src='https://img.shields.io/github/stars/hkuds/urbangpt?color=green&style=social' />
+🎯<img src='https://img.shields.io/badge/KDD2024-orange' />[UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/abs/2403.00813), **[[code](https://github.com/HKUDS/UrbanGPT)]**, **[[project](https://urban-gpt.github.io/)]**, **[[video](https://www.youtube.com/watch?v=4BIbQt-EIAM)]** <img src='https://img.shields.io/github/stars/hkuds/urbangpt?color=green&style=social' />
 
 Zhonghang Li, Lianghao Xia, **Jiabin Tang**, Yong Xu, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
 - in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024.
 
-[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), **[[code](https://github.com/HKUDS/LLMRec)]** 
+<img src='https://img.shields.io/badge/WWW2024-orange' />[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), **[[code](https://github.com/HKUDS/LLMRec)]** 
 
 Wei Wei, **Jiabin Tang**, Yangqin Jiang, Lianghao Xia, Chao Huang$^{\dagger}$
 
 - in Proc. of The Web Conference (WWW), 2024.
 
-[LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423), **[[code](https://github.com/HKUDS/LLMRec)]**, **[[project](https://llmrec.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/llmrec?color=green&style=social' />
+<img src='https://img.shields.io/badge/WSDM2024-orange' />[LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423), **[[code](https://github.com/HKUDS/LLMRec)]**, **[[project](https://llmrec.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/llmrec?color=green&style=social' />
 
 Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng wang, Dawei Yin, Chao Huang$^{\dagger}$
 
 - in Proc. of The ACM International Conference on Web Search and Data Mining (WSDM), 2024. (*Oral Presentation*)
 
-[Spatio-Temporal Meta Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3583780.3615065), **[[code](https://github.com/HKUDS/CL4ST)]** <img src='https://img.shields.io/github/stars/hkuds/cl4st?color=green&style=social' />&nbsp;
+<img src='https://img.shields.io/badge/CIKM2023-orange' />[Spatio-Temporal Meta Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3583780.3615065), **[[code](https://github.com/HKUDS/CL4ST)]** <img src='https://img.shields.io/github/stars/hkuds/cl4st?color=green&style=social' />&nbsp;
 
 **Jiabin Tang**, Lianghao Xia, Jie Hu, Chao Huang$^{\dagger}$
 
 - in Proc. of The ACM International Conference on Information and Knowledge Management (CIKM), 2023.
 
-[Explainable Spatio-Temporal Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3583780.3614871), **[[code](https://github.com/HKUDS/STExplainer)]** <img src='https://img.shields.io/github/stars/hkuds/stexplainer?color=green&style=social' />&nbsp;
+<img src='https://img.shields.io/badge/CIKM2023-orange' />[Explainable Spatio-Temporal Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3583780.3614871), **[[code](https://github.com/HKUDS/STExplainer)]** <img src='https://img.shields.io/github/stars/hkuds/stexplainer?color=green&style=social' />&nbsp;
 
 **Jiabin Tang**, Lianghao Xia, Chao Huang$^{\dagger}$
 
 - in Proc. of The ACM International Conference on Information and Knowledge Management (CIKM), 2023.
 
-[Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting](https://ieeexplore.ieee.org/document/9892191)
+<img src='https://img.shields.io/badge/IJCNN2022-orange' />[Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting](https://ieeexplore.ieee.org/document/9892191)
 
 **Jiabin Tang**, Tang Qian, Shijing Liu, Shengdong Du$^{\dagger}$, Jie Hu, Tianrui Li
 
