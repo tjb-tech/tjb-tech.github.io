@@ -65,7 +65,7 @@ Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
 
 #### Conference and Journal Publications
 
-🎯<img src='https://img.shields.io/badge/SIGIR2024-orange' /></a>[GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[project](https://graphgpt.github.io/)]**, **[[Bilibili](https://www.bilibili.com/video/BV1YQ4y1E7jW/?spm_id_from=333.999.0.0&vd_source=e4217e0b912c93c99f59f1489308a356)]**, **[[Youtube](https://www.youtube.com/watch?v=AIEoaPkm-XI)]** <img src='https://img.shields.io/github/stars/hkuds/graphgpt?color=green&style=social' />&nbsp;
+🎯<img src='https://img.shields.io/badge/SIGIR2024-orange' />[GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[project](https://graphgpt.github.io/)]**, **[[Bilibili](https://www.bilibili.com/video/BV1YQ4y1E7jW/?spm_id_from=333.999.0.0&vd_source=e4217e0b912c93c99f59f1489308a356)]**, **[[Youtube](https://www.youtube.com/watch?v=AIEoaPkm-XI)]** <img src='https://img.shields.io/github/stars/hkuds/graphgpt?color=green&style=social' />&nbsp;
 
 **Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, Suqi Cheng, Dawei Yin, Chao Huang$^{\dagger}$
 
