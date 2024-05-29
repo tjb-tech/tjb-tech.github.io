@@ -23,7 +23,7 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 # 🔥 News
 
-* 🎯 *2024.03*: &nbsp;🎉🎉Our **HiGPT** is accepted by **KDD'24** in the Research Track (~20% acceptance rate) and **UrbanGPT** is accepted by **KDD'24** in the Applied Data Science Track (~20% acceptance rate). Check out more about **HiGPT**: 🏠https://higpt-hku.github.io/ and **UrbanGPT**: 🏠https://urban-gpt.github.io/. Thanks to Zhonghang and other co-authors as well as my supervisor!
+* 🎯 *2024.03*: &nbsp;🎉🎉Our **HiGPT** is accepted by **KDD'24** in the Research Track (~20% acceptance rate), **UrbanGPT** is accepted by **KDD'24** in the Applied Data Science Track (~20% acceptance rate) and **LLM4Graph** is accepted by **KDD'24** in the Lecture-Style Track Tutorial. Check out more about **HiGPT**: 🏠https://higpt-hku.github.io/, **UrbanGPT**: 🏠https://urban-gpt.github.io/ and **LLM4Graph**: 🏠https://github.com/HKUDS/Awesome-LLM4Graph-Papers. Thanks to Zhonghang, Xubin and other co-authors as well as my supervisor!
 
 - 🎯 *2024.03*: &nbsp;🎉🎉Our **GraphGPT** is accepted by **SIGIR'24** in the Full paper track (20.1% acceptance rate). Check out more about **GraphGPT**: 🏠[https://graphgpt.github.io/](https://graphgpt.github.io/). Thanks to all my co-authors and my supervisor!
 - 🎯 *2024.03*: &nbsp;🎉🎉I gave a presentation titled "*Graph Language Models*" on **24rd** **March 2024** in [Talk on MLLM](https://www.mllm-ai.com/home) to introduce our **GraphGPT**, **HiGPT** and **UrbanGPT**. Please check out this **[[video](https://www.youtube.com/watch?v=AIEoaPkm-XI)]** ! 
@@ -57,11 +57,11 @@ Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla, Chao Huang$^{\dagger}$
 
 #### Tutorials
 
-[Large Language Models for Graphs: Progresses and Directions](https://dl.acm.org/doi/abs/10.1145/3589335.3641251), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]**, **[[project](https://llm4graph-tutorial.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
+<img src='https://img.shields.io/badge/WWW2024-orange' /><img src='https://img.shields.io/badge/KDD2024-orange' />[Large Language Models for Graphs: Progresses and Directions](https://dl.acm.org/doi/abs/10.1145/3589335.3641251), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]**, **[[project](https://llm4graph-tutorial.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
 
 Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
 
-* in Proc. of The Web Conference (WWW), 2024.
+* in Proc. of The Web Conference (WWW), 2024 and ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 #### Conference and Journal Publications
 
@@ -75,13 +75,13 @@ Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
 
 **Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
-- in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024.
+- in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 🎯<img src='https://img.shields.io/badge/KDD2024-orange' />[UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/abs/2403.00813), **[[code](https://github.com/HKUDS/UrbanGPT)]**, **[[project](https://urban-gpt.github.io/)]**, **[[video](https://www.youtube.com/watch?v=4BIbQt-EIAM)]** <img src='https://img.shields.io/github/stars/hkuds/urbangpt?color=green&style=social' />
 
 Zhonghang Li, Lianghao Xia, **Jiabin Tang**, Yong Xu, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
-- in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024.
+- in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 <img src='https://img.shields.io/badge/WWW2024-orange' />[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), **[[code](https://github.com/HKUDS/LLMRec)]** 
 
