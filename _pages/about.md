@@ -47,17 +47,17 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
-#### Preprints
+#### Survey
 
-[A Survey of Large Language Models for Graphs](https://arxiv.org/abs/2405.08011), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
+<img src='https://img.shields.io/badge/KDD2024[Tutorial+Survey]-orange' />[A Survey of Large Language Models for Graphs](https://arxiv.org/abs/2405.08011), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
 
 Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla, Chao Huang$^{\dagger}$
 
-* Pre-print, 2024.
+* in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 #### Tutorials
 
-<img src='https://img.shields.io/badge/WWW2024-orange' /><img src='https://img.shields.io/badge/KDD2024-orange' />[Large Language Models for Graphs: Progresses and Directions](https://dl.acm.org/doi/abs/10.1145/3589335.3641251), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]**, **[[project](https://llm4graph-tutorial.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
+<img src='https://img.shields.io/badge/WWW2024[Tutorial]-orange' />|<img src='https://img.shields.io/badge/KDD2024[Tutorial+Survey]-orange' />[Large Language Models for Graphs: Progresses and Directions](https://dl.acm.org/doi/abs/10.1145/3589335.3641251), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]**, **[[project](https://llm4graph-tutorial.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
 
 Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
 
