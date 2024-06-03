@@ -71,7 +71,7 @@ Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
 
 - in Proc. of Special Interest Group on Information Retrieval (SIGIR), 2024.
 
-🌟 <font color=#008000>**(Top-2 Most Cited Paper: 2 / 159 Accepted Papers)**</font> 🌟
+🌟 **(Top-2 Most Cited Paper: 2 / 159 Accepted Papers)** 🌟
 
 🎯<img src='https://img.shields.io/badge/KDD2024-orange' />[HiGPT: Heterogeneous Graph Language Model](https://arxiv.org/abs/2402.16024), **[[code](https://github.com/HKUDS/HiGPT)]**, **[[project](https://higpt-hku.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/higpt?color=green&style=social' />&nbsp;
 
@@ -97,7 +97,7 @@ Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng
 
 - in Proc. of The ACM International Conference on Web Search and Data Mining (WSDM), 2024. (*Oral Presentation*)
 
-🌟 <font color=#008000>**(Top-1 Most Cited Paper: 1 / 112 Accepted Papers)**</font> 🌟
+🌟 **(Top-1 Most Cited Paper: 1 / 112 Accepted Papers)** 🌟
 
 <img src='https://img.shields.io/badge/CIKM2023-orange' />[Spatio-Temporal Meta Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3583780.3615065), **[[code](https://github.com/HKUDS/CL4ST)]** <img src='https://img.shields.io/github/stars/hkuds/cl4st?color=green&style=social' />&nbsp;
 
