@@ -127,7 +127,7 @@ Wei Wei, **Jiabin Tang**, Yangqin Jiang, Lianghao Xia, Chao Huang$^{\dagger}$
 
 #### Survey
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/llm4graph.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/llm4graph.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <img src='https://img.shields.io/badge/KDD2024[Tutorial+Survey]-orange' />[A Survey of Large Language Models for Graphs](https://arxiv.org/abs/2405.08011), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
@@ -148,6 +148,10 @@ Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
 * in Proc. of The Web Conference (WWW), 2024 and ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 # 🎖 Honors and Awards
+
+* Academic Awards
+  * **KDD 2024** Student Travel Award
+
 * Scholarship(Selected)
   * National Scholarship (Two Times): **2020** and **2021**
   * Cao Jianyou Student Award: **2022**
