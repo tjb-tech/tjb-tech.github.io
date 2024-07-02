@@ -47,22 +47,6 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
-#### Survey
-
-<img src='https://img.shields.io/badge/KDD2024[Tutorial+Survey]-orange' />[A Survey of Large Language Models for Graphs](https://arxiv.org/abs/2405.08011), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
-
-Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla, Chao Huang$^{\dagger}$
-
-* in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
-
-#### Tutorials
-
-<img src='https://img.shields.io/badge/WWW2024[Tutorial]-orange' />&<img src='https://img.shields.io/badge/KDD2024[Tutorial+Survey]-orange' />[Large Language Models for Graphs: Progresses and Directions](https://dl.acm.org/doi/abs/10.1145/3589335.3641251), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]**, **[[project](https://llm4graph-tutorial.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
-
-Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
-
-* in Proc. of The Web Conference (WWW), 2024 and ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
-
 #### Conference and Journal Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/graphgpt.png' alt="sym" width="100%"></div></div>
@@ -79,11 +63,20 @@ Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/higpt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 🎯<img src='https://img.shields.io/badge/KDD2024-orange' />[HiGPT: Heterogeneous Graph Language Model](https://arxiv.org/abs/2402.16024), **[[code](https://github.com/HKUDS/HiGPT)]**, **[[project](https://higpt-hku.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/higpt?color=green&style=social' />&nbsp;
 
 **Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
 - in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/urbangpt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/KDD2024-orange' />[UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/abs/2403.00813), **[[code](https://github.com/HKUDS/UrbanGPT)]**, **[[project](https://urban-gpt.github.io/)]**, **[[video](https://www.youtube.com/watch?v=4BIbQt-EIAM)]** <img src='https://img.shields.io/github/stars/hkuds/urbangpt?color=green&style=social' />
 
@@ -91,19 +84,28 @@ Zhonghang Li, Lianghao Xia, **Jiabin Tang**, Yong Xu, Lei Shi, Long Xia, Dawei Y
 
 - in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
-<img src='https://img.shields.io/badge/WWW2024-orange' />[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), **[[code](https://github.com/HKUDS/LLMRec)]** 
+</div>
+</div>
 
-Wei Wei, **Jiabin Tang**, Yangqin Jiang, Lianghao Xia, Chao Huang$^{\dagger}$
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2024</div><img src='images/llmrec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- in Proc. of The Web Conference (WWW), 2024.
-
-<img src='https://img.shields.io/badge/WSDM2024-orange' />[LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423), **[[code](https://github.com/HKUDS/LLMRec)]**, **[[project](https://llmrec.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/llmrec?color=green&style=social' />
+🎯<img src='https://img.shields.io/badge/WSDM2024-orange' />[LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423), **[[code](https://github.com/HKUDS/LLMRec)]**, **[[project](https://llmrec.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/llmrec?color=green&style=social' />
 
 Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng wang, Dawei Yin, Chao Huang$^{\dagger}$
 
 - in Proc. of The ACM International Conference on Web Search and Data Mining (WSDM), 2024. (*Oral Presentation*)
 
 🌟 **(Top-1 Most Cited Paper: 1 / 112 Accepted Papers)** 🌟
+
+</div>
+</div>
+
+<img src='https://img.shields.io/badge/WWW2024-orange' />[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), **[[code](https://github.com/HKUDS/LLMRec)]** 
+
+Wei Wei, **Jiabin Tang**, Yangqin Jiang, Lianghao Xia, Chao Huang$^{\dagger}$
+
+- in Proc. of The Web Conference (WWW), 2024.
 
 <img src='https://img.shields.io/badge/CIKM2023-orange' />[Spatio-Temporal Meta Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3583780.3615065), **[[code](https://github.com/HKUDS/CL4ST)]** <img src='https://img.shields.io/github/stars/hkuds/cl4st?color=green&style=social' />&nbsp;
 
@@ -122,6 +124,28 @@ Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng
 **Jiabin Tang**, Tang Qian, Shijing Liu, Shengdong Du$^{\dagger}$, Jie Hu, Tianrui Li
 
 - in Proc. of The International Joint Conference on Neural Networks (IJCNN), 2022. (*Oral Presentation*)
+
+#### Survey
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/llm4graph.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<img src='https://img.shields.io/badge/KDD2024[Tutorial+Survey]-orange' />[A Survey of Large Language Models for Graphs](https://arxiv.org/abs/2405.08011), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
+
+Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla, Chao Huang$^{\dagger}$
+
+* in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
+
+</div>
+</div>
+
+#### Tutorials
+
+<img src='https://img.shields.io/badge/WWW2024[Tutorial]-orange' />&<img src='https://img.shields.io/badge/KDD2024[Tutorial+Survey]-orange' />[Large Language Models for Graphs: Progresses and Directions](https://dl.acm.org/doi/abs/10.1145/3589335.3641251), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]**, **[[project](https://llm4graph-tutorial.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
+
+Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
+
+* in Proc. of The Web Conference (WWW), 2024 and ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 # 🎖 Honors and Awards
 * Scholarship(Selected)
