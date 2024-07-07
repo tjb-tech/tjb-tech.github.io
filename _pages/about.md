@@ -33,6 +33,8 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 <!-- <font color="red></font>
 <a href=""></a> -->
 
+*(Scroll down for more ...⬇️)*
+
 <div class="scrollable">
     <ul>
       <li><strong>2024.07</strong>: &nbsp;🇪🇸🏅I'm honored to receive the KDD'24 student travel award.</li>
@@ -51,7 +53,7 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
     </ul>
 </div>
 
-**(Scroll down for more ...)**
+
 
 
 # 📝 Publications 
