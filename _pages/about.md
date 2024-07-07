@@ -46,10 +46,10 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
       <li><strong>2024.03</strong>: 🎯 &nbsp;📢📢 We release our <b>Spatio-Temporal Large Language Models</b> - <b>UrbanGPT</b> with pre-print <a href="https://arxiv.org/abs/2403.00813" target="_blank">paper</a>, <a href="https://github.com/HKUDS/UrbanGPT" target="_blank">source code</a>, <a href="https://huggingface.co/datasets/bjdwh/checkpoints" target="_blank">model</a> and <a href="https://huggingface.co/datasets/bjdwh/ST_data_urbangpt" target="_blank">data</a>. Keep going towards smart city in the era of LLMs!</li>
       <li><strong>2024.02</strong>: &nbsp;🎉🎉 Our paper <b>PromptMM</b> is accepted by <b>WWW'24</b> ! Thanks to Wei Wei and other co-authors! </li>
       <li><strong>2023.10</strong>: &nbsp;🎉🎉 Our paper <b>LLMRec</b> is accepted by <b>WSDM'24</b> ! Thanks to Wei Wei and other co-authors! </li>
-      <li><strong>2023.0</strong>: &nbsp;🎉🎉 Two full papers about spatio-temporal data mining are accepted by <b>CIKM'23</b> . Thanks to all my co-authors and my supervisor!</li>
-      <li><i>2023.06</i>: &nbsp;🎉🎉 I graduated from SWJTU. Nice memories with all my friends, teachers and family!</li>
-  <li><i>2022.11</i>: &nbsp;🎉🎉 I am honored with <i>Cao Jianyou Student Award</i> <b>2022</b> (Selected from eight universities, including Southwest Jiaotong University, Tongji University, Central South University, etc. ).</li>
-  <li><i>2022.11</i>: &nbsp;🎉🎉 I am nominated for <i>National Scholarship for Encouragement</i> and <i>Provincial Outstanding Graduates</i>.</li>
+      <li><strong>2023.08</strong>: &nbsp;🎉🎉 Two full papers about spatio-temporal data mining are accepted by <b>CIKM'23</b> . Thanks to all my co-authors and my supervisor!</li>
+      <li><strong>2023.06</strong>: &nbsp;🎉🎉 I graduated from SWJTU. Nice memories with all my friends, teachers and family!</li>
+  <li><strong>2022.11</strong>: &nbsp;🎉🎉 I am honored with <i>Cao Jianyou Student Award</i> <b>2022</b> (Selected from eight universities, including Southwest Jiaotong University, Tongji University, Central South University, etc. ).</li>
+  <li><strong>2022.11</strong>: &nbsp;🎉🎉 I am nominated for <i>National Scholarship for Encouragement</i> and <i>Provincial Outstanding Graduates</i>.</li>
     </ul>
 </div>
 
