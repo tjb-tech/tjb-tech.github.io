@@ -23,25 +23,36 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 # 🔥 News
 
-* 🎯 *2024.03*: &nbsp;🎉🎉Our **HiGPT** is accepted by **KDD'24** in the Research Track (~20% acceptance rate), **UrbanGPT** is accepted by **KDD'24** in the Applied Data Science Track (~20% acceptance rate) and **LLM4Graph** is accepted by **KDD'24** in the Lecture-Style Track Tutorial. Check out more about **HiGPT**: 🏠https://higpt-hku.github.io/, **UrbanGPT**: 🏠https://urban-gpt.github.io/ and **LLM4Graph**: 🏠https://github.com/HKUDS/Awesome-LLM4Graph-Papers. Thanks to Zhonghang, Xubin and other co-authors as well as my supervisor!
+<style>
+  .scrollable {
+    max-height: 400px; /* 设置最大高度 */
+    overflow-y: scroll; /* 设置垂直滚动条 */
+  }
+</style>
 
-- 🎯 *2024.03*: &nbsp;🎉🎉Our **GraphGPT** is accepted by **SIGIR'24** in the Full paper track (20.1% acceptance rate). Check out more about **GraphGPT**: 🏠[https://graphgpt.github.io/](https://graphgpt.github.io/). Thanks to all my co-authors and my supervisor!
-- 🎯 *2024.03*: &nbsp;🎉🎉I gave a presentation titled "*Graph Language Models*" on **24rd** **March 2024** in [Talk on MLLM](https://www.mllm-ai.com/home) to introduce our **GraphGPT**, **HiGPT** and **UrbanGPT**. Please check out this **[[video](https://www.youtube.com/watch?v=AIEoaPkm-XI)]** ! 
-- 🎯 *2024.02*: &nbsp;🎉🎉 We release our **Heterogeneous Graph Language Model** - **HiGPT** with pre-print [paper](https://arxiv.org/abs/2402.16024), [source code](https://github.com/HKUDS/HiGPT), [model](https://huggingface.co/Jiabin99/HiGPT). Goodbye, homogeneous graphs! Hi, heterogeneous graph!
-- 🎯 *2023.10*: &nbsp;🎉🎉 We release our **Graph Large Language Models** - **GraphGPT** with pre-print [paper](https://arxiv.org/abs/2310.13023), [source code](https://github.com/HKUDS/GraphGPT), [model](https://huggingface.co/Jiabin99/GraphGPT-7B-mix-all) and [data](https://huggingface.co/datasets/Jiabin99/Arxiv-PubMed-mix-NC-LP). Let's step to **Graph Learning in the era of LLM**!
-- 🎯 *2024.03*: &nbsp;🎉🎉 We release our **Spatio-Temporal Large Language Models** - **UrbanGPT** with pre-print [paper](https://arxiv.org/abs/2403.00813), [source code](https://github.com/HKUDS/UrbanGPT), [model](https://huggingface.co/datasets/bjdwh/checkpoints) and [data](https://huggingface.co/datasets/bjdwh/ST_data_urbangpt). Keep going towards smart city in the era of LLMs!
-- *2024.02*: &nbsp;🎉🎉 Our paper **PromptMM** is accepted by **WWW'24**! Thanks to Wei Wei and other co-authors!
-- *2023.10*: &nbsp;🎉🎉 Our paper **LLMRec** is accepted by **WSDM'24**! Thanks to Wei Wei and other co-authors!
-- *2023.08*: &nbsp;🎉🎉 Two full papers about spatio-temporal data mining are accepted by **CIKM'23**. Thanks to all my co-authors and my supervisor!
+<!-- <font color="red></font>
+<a href=""></a> -->
 
-<details>
-<summary> <b>More News</b> </summary>
-  <ul>
-  <li><i>2023.06</i>: &nbsp;🎉🎉 I graduated from SWJTU. Nice memories with all my friends, teachers and family!</li>
+<div class="scrollable">
+    <ul>
+      <li><strong>2024.07</strong>: &nbsp;🇪🇸🏅I'm honored to receive the KDD'24 student travel award.</li>
+      <li><strong>2024.03</strong>: &nbsp;🎉🎉 Our <b>HiGPT</b> is accepted by <b>KDD'24</b> in the Research Track (~20% acceptance rate), <b>UrbanGPT</b> is accepted by <b>KDD'24</b> in the Applied Data Science Track (~20% acceptance rate) and <b>LLM4Graph</b> is accepted by <b>KDD'24</b> in the Lecture-Style Track Tutorial. Check out more about <b>HiGPT</b> : 🏠<a href="https://higpt-hku.github.io/" target="_blank">https://higpt-hku.github.io/</a>, <b>UrbanGPT</b> : 🏠<a href="https://urban-gpt.github.io/" target="_blank">https://urban-gpt.github.io/</a> and <b>LLM4Graph</b> : 🏠<a href="https://github.com/HKUDS/Awesome-LLM4Graph-Papers" target="_blank">https://github.com/HKUDS/Awesome-LLM4Graph-Papers</a>. Thanks to Zhonghang, Xubin and other co-authors as well as my supervisor! </li>
+      <li><strong>2024.03</strong>: 🎯 &nbsp;🎉🎉 Our <b>GraphGPT</b> is accepted by <b>SIGIR'24</b> in the Full paper track (20.1% acceptance rate). Check out more about <b>GraphGPT</b> : 🏠<a href="https://graphgpt.github.io/" target="_blank">https://graphgpt.github.io/</a>. Thanks to all my co-authors and my supervisor!</li>
+      <li><strong>2024.03</strong>: 🎯 &nbsp;🎙️🎙️ I gave a presentation titled "<i>Graph Language Models</i>" on <b>24rd</b> <b>March 2024</b> in <a href="https://www.mllm-ai.com/home" target="_blank">Talk on MLL</a> to introduce our <b>GraphGPT</b> , <b>HiGPT</b> and <b>UrbanGPT</b> . Please check out this <b><a href="https://www.youtube.com/watch?v=AIEoaPkm-XI" target="_blank">video</a></b> ! </li>
+      <li><strong>2024.02</strong>: 🎯 &nbsp;📢📢 We release our <b>Heterogeneous Graph Language Model</b> - <b>HiGPT</b> with pre-print <a href="https://arxiv.org/abs/2402.16024" target="_blank">paper</a>, <a href="https://github.com/HKUDS/HiGPT" target="_blank">source code</a>, <a href="https://huggingface.co/Jiabin99/HiGPT" target="_blank">model</a>. Goodbye, homogeneous graphs! Hi, heterogeneous graph!</li>
+      <li><strong>2023.10</strong>: 🎯 &nbsp;📢📢 We release our <b>Graph Large Language Models</b> - <b>GraphGPT</b> with pre-print <a href="https://arxiv.org/abs/2310.13023" target="_blank">paper</a>, <a href="https://github.com/HKUDS/GraphGPT" target="_blank">source code</a>, <a href="https://huggingface.co/Jiabin99/GraphGPT-7B-mix-all" target="_blank">model</a> and <a href="https://huggingface.co/datasets/Jiabin99/Arxiv-PubMed-mix-NC-LP" target="_blank">data</a>. Let's step to <b>Graph Learning in the era of LLM</b> !</li>
+      <li><strong>2024.03</strong>: 🎯 &nbsp;📢📢 We release our <b>Spatio-Temporal Large Language Models</b> - <b>UrbanGPT</b> with pre-print <a href="https://arxiv.org/abs/2403.00813" target="_blank">paper</a>, <a href="https://github.com/HKUDS/UrbanGPT" target="_blank">source code</a>, <a href="https://huggingface.co/datasets/bjdwh/checkpoints" target="_blank">model</a> and <a href="https://huggingface.co/datasets/bjdwh/ST_data_urbangpt" target="_blank">data</a>. Keep going towards smart city in the era of LLMs!</li>
+      <li><strong>2024.02</strong>: &nbsp;🎉🎉 Our paper <b>PromptMM</b> is accepted by <b>WWW'24</b> ! Thanks to Wei Wei and other co-authors! </li>
+      <li><strong>2023.10</strong>: &nbsp;🎉🎉 Our paper <b>LLMRec</b> is accepted by <b>WSDM'24</b> ! Thanks to Wei Wei and other co-authors! </li>
+      <li><strong>2023.0</strong>: &nbsp;🎉🎉 Two full papers about spatio-temporal data mining are accepted by <b>CIKM'23</b> . Thanks to all my co-authors and my supervisor!</li>
+      <li><i>2023.06</i>: &nbsp;🎉🎉 I graduated from SWJTU. Nice memories with all my friends, teachers and family!</li>
   <li><i>2022.11</i>: &nbsp;🎉🎉 I am honored with <i>Cao Jianyou Student Award</i> <b>2022</b> (Selected from eight universities, including Southwest Jiaotong University, Tongji University, Central South University, etc. ).</li>
   <li><i>2022.11</i>: &nbsp;🎉🎉 I am nominated for <i>National Scholarship for Encouragement</i> and <i>Provincial Outstanding Graduates</i>.</li>
-</ul>
-</details>
+    </ul>
+</div>
+
+
+
 
 # 📝 Publications 
 
