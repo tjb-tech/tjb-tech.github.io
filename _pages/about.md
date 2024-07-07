@@ -33,7 +33,7 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 <!-- <font color="red></font>
 <a href=""></a> -->
 
-*(Scroll down for more ...⬇️)*
+*(Scroll down for more ...)* ⬇️
 
 <div class="scrollable">
     <ul>
