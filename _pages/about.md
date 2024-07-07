@@ -26,7 +26,7 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 <style>
   .scrollable {
     max-height: 400px; /* 设置最大高度 */
-    overflow: auto;
+    overflow-y: scroll; /* 设置垂直滚动条 */
   }
 </style>
 
