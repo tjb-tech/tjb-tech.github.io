@@ -37,6 +37,7 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
 
 <div class="scrollable">
     <ul>
+      <li><strong>2024.07</strong>: &nbsp;🎉🎉Our <b>EasyST</b> is accepted by <b>CIKM'24</b> in the Full Research Paper track (~23% acceptance rate). Thanks to all co-authors as well as my supervisor!</li>
       <li><strong>2024.07</strong>: &nbsp;🇪🇸🏅I'm honored to receive the KDD'24 student travel award.</li>
       <li><strong>2024.03</strong>: &nbsp;🎉🎉 Our <b>HiGPT</b> is accepted by <b>KDD'24</b> in the Research Track (~20% acceptance rate), <b>UrbanGPT</b> is accepted by <b>KDD'24</b> in the Applied Data Science Track (~20% acceptance rate) and <b>LLM4Graph</b> is accepted by <b>KDD'24</b> in the Lecture-Style Track Tutorial. Check out more about <b>HiGPT</b> : 🏠<a href="https://higpt-hku.github.io/" target="_blank">https://higpt-hku.github.io/</a>, <b>UrbanGPT</b> : 🏠<a href="https://urban-gpt.github.io/" target="_blank">https://urban-gpt.github.io/</a> and <b>LLM4Graph</b> : 🏠<a href="https://github.com/HKUDS/Awesome-LLM4Graph-Papers" target="_blank">https://github.com/HKUDS/Awesome-LLM4Graph-Papers</a>. Thanks to Zhonghang, Xubin and other co-authors as well as my supervisor! </li>
       <li><strong>2024.03</strong>: 🎯 &nbsp;🎉🎉 Our <b>GraphGPT</b> is accepted by <b>SIGIR'24</b> in the Full paper track (20.1% acceptance rate). Check out more about <b>GraphGPT</b> : 🏠<a href="https://graphgpt.github.io/" target="_blank">https://graphgpt.github.io/</a>. Thanks to all my co-authors and my supervisor!</li>
@@ -67,7 +68,7 @@ $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
 🎯<img src='https://img.shields.io/badge/SIGIR2024-orange' />[GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), **[[code](https://github.com/HKUDS/GraphGPT)]**, **[[project](https://graphgpt.github.io/)]**, **[[Bilibili](https://www.bilibili.com/video/BV1YQ4y1E7jW/?spm_id_from=333.999.0.0&vd_source=e4217e0b912c93c99f59f1489308a356)]**, **[[Youtube](https://www.youtube.com/watch?v=AIEoaPkm-XI)]** <img src='https://img.shields.io/github/stars/hkuds/graphgpt?color=green&style=social' />&nbsp;
 
-**Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, Suqi Cheng, Dawei Yin, Chao Huang$^{\dagger}$
+**<u>Jiabin Tang</u>**, Yuhao Yang, Wei Wei, Lei Shi, Lixin Su, Suqi Cheng, Dawei Yin, Chao Huang$^{\dagger}$
 
 - in Proc. of Special Interest Group on Information Retrieval (SIGIR), 2024.
 
@@ -81,7 +82,7 @@ $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
 🎯<img src='https://img.shields.io/badge/KDD2024-orange' />[HiGPT: Heterogeneous Graph Language Model](https://arxiv.org/abs/2402.16024), **[[code](https://github.com/HKUDS/HiGPT)]**, **[[project](https://higpt-hku.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/higpt?color=green&style=social' />&nbsp;
 
-**Jiabin Tang**, Yuhao Yang, Wei Wei, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
+**<u>Jiabin Tang</u>**, Yuhao Yang, Wei Wei, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
 - in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
@@ -93,9 +94,11 @@ $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
 🎯<img src='https://img.shields.io/badge/KDD2024-orange' />[UrbanGPT: Spatio-Temporal Large Language Models](https://arxiv.org/abs/2403.00813), **[[code](https://github.com/HKUDS/UrbanGPT)]**, **[[project](https://urban-gpt.github.io/)]**, **[[video](https://www.youtube.com/watch?v=4BIbQt-EIAM)]** <img src='https://img.shields.io/github/stars/hkuds/urbangpt?color=green&style=social' />
 
-Zhonghang Li, Lianghao Xia, **Jiabin Tang**, Yong Xu, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
+Zhonghang Li, Lianghao Xia, **<u>Jiabin Tang</u>**, Yong Xu, Lei Shi, Long Xia, Dawei Yin, Chao Huang$^{\dagger}$
 
 - in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
+
+🌟 **(Top-1 Most Cited Paper at ADS Track: 1 / 148 Accepted Papers)** 🌟
 
 </div>
 </div>
@@ -105,7 +108,7 @@ Zhonghang Li, Lianghao Xia, **Jiabin Tang**, Yong Xu, Lei Shi, Long Xia, Dawei Y
 
 🎯<img src='https://img.shields.io/badge/WSDM2024-orange' />[LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://arxiv.org/abs/2311.00423), **[[code](https://github.com/HKUDS/LLMRec)]**, **[[project](https://llmrec.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/llmrec?color=green&style=social' />
 
-Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng wang, Dawei Yin, Chao Huang$^{\dagger}$
+Wei Wei, Xubin Ren, **<u>Jiabin Tang</u>**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng wang, Dawei Yin, Chao Huang$^{\dagger}$
 
 - in Proc. of The ACM International Conference on Web Search and Data Mining (WSDM), 2024. (*Oral Presentation*)
 
@@ -114,9 +117,21 @@ Wei Wei, Xubin Ren, **Jiabin Tang**, Qinyong Wang, Lixin Su, Suqi Cheng, junfeng
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/EasyST.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<img src='https://img.shields.io/badge/CIKM2024-orange' />[EasyST: A Simple Framework for Spatio-Temporal Prediction](https://arxiv.org/abs/2409.06748), **[[code](https://github.com/HKUDS/EasyST)]** 
+
+**<u>Jiabin Tang</u>**, Wei Wei, Lianghao Xia, Chao Huang$^{\dagger}$
+
+- in Proc. of The ACM International Conference on Information and Knowledge Management (CIKM), 2024.
+
+</div>
+</div>
+
 <img src='https://img.shields.io/badge/WWW2024-orange' />[PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning](https://arxiv.org/abs/2402.17188), **[[code](https://github.com/HKUDS/LLMRec)]** 
 
-Wei Wei, **Jiabin Tang**, Yangqin Jiang, Lianghao Xia, Chao Huang$^{\dagger}$
+Wei Wei, **<u>Jiabin Tang</u>**, Yangqin Jiang, Lianghao Xia, Chao Huang$^{\dagger}$
 
 - in Proc. of The Web Conference (WWW), 2024.
 
