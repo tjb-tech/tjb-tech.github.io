@@ -137,19 +137,19 @@ Wei Wei, **<u>Jiabin Tang</u>**, Yangqin Jiang, Lianghao Xia, Chao Huang$^{\dagg
 
 <img src='https://img.shields.io/badge/CIKM2023-orange' />[Spatio-Temporal Meta Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3583780.3615065), **[[code](https://github.com/HKUDS/CL4ST)]** <img src='https://img.shields.io/github/stars/hkuds/cl4st?color=green&style=social' />&nbsp;
 
-**Jiabin Tang**, Lianghao Xia, Jie Hu, Chao Huang$^{\dagger}$
+**<u>Jiabin Tang</u>**, Lianghao Xia, Jie Hu, Chao Huang$^{\dagger}$
 
 - in Proc. of The ACM International Conference on Information and Knowledge Management (CIKM), 2023.
 
 <img src='https://img.shields.io/badge/CIKM2023-orange' />[Explainable Spatio-Temporal Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3583780.3614871), **[[code](https://github.com/HKUDS/STExplainer)]** <img src='https://img.shields.io/github/stars/hkuds/stexplainer?color=green&style=social' />&nbsp;
 
-**Jiabin Tang**, Lianghao Xia, Chao Huang$^{\dagger}$
+**<u>Jiabin Tang</u>**, Lianghao Xia, Chao Huang$^{\dagger}$
 
 - in Proc. of The ACM International Conference on Information and Knowledge Management (CIKM), 2023.
 
 <img src='https://img.shields.io/badge/IJCNN2022-orange' />[Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting](https://ieeexplore.ieee.org/document/9892191)
 
-**Jiabin Tang**, Tang Qian, Shijing Liu, Shengdong Du$^{\dagger}$, Jie Hu, Tianrui Li
+**<u>Jiabin Tang</u>**, Tang Qian, Shijing Liu, Shengdong Du$^{\dagger}$, Jie Hu, Tianrui Li
 
 - in Proc. of The International Joint Conference on Neural Networks (IJCNN), 2022. (*Oral Presentation*)
 
@@ -160,7 +160,7 @@ Wei Wei, **<u>Jiabin Tang</u>**, Yangqin Jiang, Lianghao Xia, Chao Huang$^{\dagg
 
 <img src='https://img.shields.io/badge/KDD2024[Tutorial+Survey]-orange' />[A Survey of Large Language Models for Graphs](https://arxiv.org/abs/2405.08011), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
 
-Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla, Chao Huang$^{\dagger}$
+Xubin Ren, **<u>Jiabin Tang</u>**, Dawei Yin, Nitesh Chawla, Chao Huang$^{\dagger}$
 
 * in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
@@ -171,7 +171,7 @@ Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla, Chao Huang$^{\dagger}$
 
 <img src='https://img.shields.io/badge/WWW2024[Tutorial]-orange' />&<img src='https://img.shields.io/badge/KDD2024[Tutorial+Survey]-orange' />[Large Language Models for Graphs: Progresses and Directions](https://dl.acm.org/doi/abs/10.1145/3589335.3641251), **[[code](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)]**, **[[project](https://llm4graph-tutorial.github.io/)]** <img src='https://img.shields.io/github/stars/hkuds/Awesome-LLM4Graph-Papers?color=green&style=social' />
 
-Chao Huang$^{\dagger}$, Xubin Ren, **Jiabin Tang**, Dawei Yin, Nitesh Chawla
+Chao Huang$^{\dagger}$, Xubin Ren, **<u>Jiabin Tang</u>**, Dawei Yin, Nitesh Chawla
 
 * in Proc. of The Web Conference (WWW), 2024 and ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
