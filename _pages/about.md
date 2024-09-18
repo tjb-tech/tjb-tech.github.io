@@ -72,7 +72,7 @@ $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
 - in Proc. of Special Interest Group on Information Retrieval (SIGIR), 2024.
 
-🌟<font color="#006666"> **(Top-2 Most Cited Paper: 2 / 159 Accepted Papers)** </font> 🌟
+🌟<font color="#006666"> <b>(Top-2 Most Cited Paper: 2 / 159 Accepted Papers)</b> </font> 🌟
 
 </div>
 </div>
@@ -86,7 +86,7 @@ $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
 - in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
-🌟<font color="#006666"> **(Top-5 Most Cited Paper: 5 / 411 Accepted Papers)** </font> 🌟
+🌟<font color="#006666"> <b>(Top-5 Most Cited Paper: 5 / 411 Accepted Papers)</b> </font> 🌟
 
 </div>
 </div>
@@ -100,7 +100,7 @@ Zhonghang Li, Lianghao Xia, **<u>Jiabin Tang</u>**, Yong Xu, Lei Shi, Long Xia, 
 
 - in Proc. of ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
-🌟 <font color="#006666"> **(Top-1 Most Cited Paper at ADS Track: 1 / 148 Accepted Papers)** </font> 🌟
+🌟 <font color="#006666"> <b>(Top-1 Most Cited Paper at ADS Track: 1 / 148 Accepted Papers)</b> </font> 🌟
 
 </div>
 </div>
@@ -114,7 +114,7 @@ Wei Wei, Xubin Ren, **<u>Jiabin Tang</u>**, Qinyong Wang, Lixin Su, Suqi Cheng, 
 
 - in Proc. of The ACM International Conference on Web Search and Data Mining (WSDM), 2024. (*Oral Presentation*)
 
-🌟 <font color="#006666"> **(Top-1 Most Cited Paper: 1 / 112 Accepted Papers)** </font> 🌟
+🌟 <font color="#006666"> <b>(Top-1 Most Cited Paper: 1 / 112 Accepted Papers)</b> </font> 🌟
 
 </div>
 </div>
