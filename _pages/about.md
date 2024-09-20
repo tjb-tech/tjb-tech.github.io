@@ -114,17 +114,6 @@ Wei Wei, Xubin Ren, **<u>Jiabin Tang</u>**, Qinyong Wang, Lixin Su, Suqi Cheng, 
 
 - in Proc. of The ACM International Conference on Web Search and Data Mining (WSDM), 2024. (*Oral Presentation*)
 
-  <a
-                href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=GUXIfJgAAAAJ&citation_for_view=GUXIfJgAAAAJ:zYLM7Y9cAGgC"
-                aria-label="Google Scholar link"
-                role="button"
-              >
-                <img
-                  src="https://img.shields.io/badge/scholar-{% google_scholar_citations GUXIfJgAAAAJ zYLM7Y9cAGgC %}-4285F4?logo=googlescholar&labelColor=beige"
-                  alt="{% google_scholar_citations GUXIfJgAAAAJ zYLM7Y9cAGgC %} Google Scholar citations"
-                >
-              </a>
-
 🌟 <font color="#006666"> <b>(Top-1 Most Cited Paper: 1 / 112 Accepted Papers)</b> </font> 🌟
 
 </div>
