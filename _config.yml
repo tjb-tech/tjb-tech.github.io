@@ -146,6 +146,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - google_scholar_citations
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
