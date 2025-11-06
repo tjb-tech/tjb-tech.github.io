@@ -36,6 +36,12 @@ My research interest includes **Language Models**, **Language Agents**, and **Po
 
 <div class="scrollable">
     <ul>
+      <li><strong>2025.09</strong>: &nbsp;🎉🎉 Our <b>AI-Researcher</b> is accepted by <b>NeurIPS'25</b> as <b>Spotlight</b>! See you in San Diego, USA!</li>
+      <li><strong>2025.09</strong>: &nbsp;🚀🚀 We launched <b>Novix</b>, the world's first production-ready <b>AI Co-Scientist Platform</b> for automated scientific discovery. Join our public beta: 🏠<a href="https://novix.science/" target="_blank">https://novix.science/</a>!</li>
+      <li><strong>2025.06</strong>: &nbsp;🎯📢 We release <b>Kimi-Researcher</b> with End-to-End RL Training for Emerging Agentic Capabilities. Check out more details: 🏠<a href="https://moonshotai.github.io/Kimi-Researcher/" target="_blank">https://moonshotai.github.io/Kimi-Researcher/</a>. I'm honored to be a core contributor!</li>
+      <li><strong>2025.05</strong>: &nbsp;📢📢 We release our <b>AI-Researcher</b> <a href="https://arxiv.org/abs/2505.18705" target="_blank">paper</a>. An end-to-end automated scientific discovery engine!</li>
+      <li><strong>2025.03</strong>: &nbsp;🎯📢 We release <b>AI-Researcher</b>, an <b>End-to-End Automated Scientific Discovery Engine</b> with <a href="https://github.com/HKUDS/AI-Researcher" target="_blank">source code</a>. Let's automate scientific research!</li>
+      <li><strong>2025.02</strong>: &nbsp;🎯📢 We release our <b>Fully-Automated and Zero-Code LLM Agent Framework</b> - <b>AutoAgent</b> with <a href="https://arxiv.org/abs/2502.05957" target="_blank">paper</a> and <a href="https://github.com/HKUDS/AutoAgent" target="_blank">source code</a>. Achieved <b>open-source SOTA</b> on GAIA benchmark!</li>
       <li><strong>2024.07</strong>: &nbsp;🎉🎉 Our <b>EasyST</b> is accepted by <b>CIKM'24</b> in the Full Research Paper track (~23% acceptance rate). Thanks to all co-authors as well as my supervisor!</li>
       <li><strong>2024.07</strong>: &nbsp;🇪🇸🏅 I'm honored to receive the KDD'24 student travel award.</li>
       <li><strong>2024.03</strong>: &nbsp;🎉🎉 Our <b>HiGPT</b> is accepted by <b>KDD'24</b> in the Research Track (~20% acceptance rate), <b>UrbanGPT</b> is accepted by <b>KDD'24</b> in the Applied Data Science Track (~20% acceptance rate) and <b>LLM4Graph</b> is accepted by <b>KDD'24</b> in the Lecture-Style Track Tutorial. Check out more about <b>HiGPT</b> : 🏠<a href="https://higpt-hku.github.io/" target="_blank">https://higpt-hku.github.io/</a>, <b>UrbanGPT</b> : 🏠<a href="https://urban-gpt.github.io/" target="_blank">https://urban-gpt.github.io/</a> and <b>LLM4Graph</b> : 🏠<a href="https://github.com/HKUDS/Awesome-LLM4Graph-Papers" target="_blank">https://github.com/HKUDS/Awesome-LLM4Graph-Papers</a>. Thanks to Zhonghang, Xubin and other co-authors as well as my supervisor! </li>
@@ -61,6 +67,44 @@ My research interest includes **Language Models**, **Language Agents**, and **Po
 $^{\dagger}$ indicates corresponding author, $^{*}$ indicates equal contribution
 
 #### Conference and Journal Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ai-researcher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/NeurIPS2025-orange' />[AI-Researcher: Autonomous Scientific Innovation](https://arxiv.org/pdf/2505.18705), **[[code](https://github.com/HKUDS/AI-Researcher)]** <img src='https://img.shields.io/github/stars/hkuds/ai-researcher?color=green&style=social' />&nbsp;
+
+**<u>Jiabin Tang</u>**, Lianghao Xia, Zhonghang Li, Chao Huang$^{\dagger}$
+
+- in Proc. of Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
+
+🌟<font color="#006666"> <b>A production-ready version: https://novix.science/chat</b> </font> 🌟
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/autoagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯[AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents](https://arxiv.org/pdf/2502.05957), **[[code](https://github.com/HKUDS/AutoAgent)]** <img src='https://img.shields.io/github/stars/hkuds/autoagent?color=green&style=social' />&nbsp;
+
+**<u>Jiabin Tang</u>**, Tianyu Fan, Chao Huang$^{\dagger}$
+
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/kimi-researcher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯[Kimi-Researcher: End-to-End RL Training for Emerging Agentic Capabilities](https://moonshotai.github.io/Kimi-Researcher/)&nbsp;
+
+**<u>Jiabin Tang</u>** as a Core Contributor of Kimi-Researcher Team
+
+
+🌟<font color="#006666"> <b>A frontier end-to-end agentic RL solution benchmarked against OpenAI Deep Research.</b> </font> 🌟
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/graphgpt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -216,9 +260,13 @@ Chao Huang$^{\dagger}$, Xubin Ren, **<u>Jiabin Tang</u>**, Dawei Yin, Nitesh Cha
 
 # 💻 Internships
 - Research Intern
+  - Company/Institution: RL Team, Moonshot AI.
+  - Advisor: Flood Sung
+  - Employment period: From 02/2025 to 08/2025
+- Research Intern
   - Company/Institution: Search Science Team, Baidu Inc.
   - Advisor: Dr. Lei Shi & Dr. Lixin Su
-  - Employment period: From 06/2023 to the present
+  - Employment period: From 06/2023 to 08/2023
 - Research Intern
   - Company/Institution: Data Intelligence Lab, The University of Hong Kong
   - Advisor: Prof. Chao Huang
