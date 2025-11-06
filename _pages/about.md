@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student majoring in Data Science at The University of Hong Kong (HKU), supervised by Prof. [Chao Huang](https://sites.google.com/view/chaoh) and [Kao, Benjamin C.M](https://www.cs.hku.hk/index.php/people/academic-staff/kao). 
+I am a third-year Ph.D. student majoring in Data Science at The University of Hong Kong (HKU), supervised by Prof. [Chao Huang](https://sites.google.com/view/chaoh) and [Kao, Benjamin C.M](https://www.cs.hku.hk/index.php/people/academic-staff/kao). Also, I am a co-founder of [Novix](https://novix.science/) to democratize insights and innovation for everyone. Before that, I am a core contributor of [Kimi-Researcher](https://moonshotai.github.io/Kimi-Researcher/).
 
-My research interest includes **Graph Neural Networks**, **Large Language Models** and **deep learning applications**. I have published some papers <a href='https://scholar.google.com.hk/citations?user=GUXIfJgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ftjb-tech%2Ftjb-tech.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as KDD, SIGIR, CIKM, WWW. 
+My research interest includes **Language Models**, **Language Agents**, and **Post-training for Language Models**. I have published some papers <a href='https://scholar.google.com.hk/citations?user=GUXIfJgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Ftjb-tech%2Ftjb-tech.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, KDD, SIGIR, CIKM, WWW and so on. 
 
 # 🔥 News
 
@@ -29,7 +29,6 @@ My research interest includes **Graph Neural Networks**, **Large Language Models
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
 </style>
-
 <!-- <font color="red></font>
 <a href=""></a> -->
 
